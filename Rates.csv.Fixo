@@ -1,0 +1,4 @@
+#Id,ConnectFee,Rate,RateUnit,RateIncrement,GroupIntervalStart
+RT_FIXO_Debito,0,0,0,0,0
+RT_FIXO_Debito,0,0.036,60s,6s,3
+RT_FIXO_Custo,0,0.023,60s,1s,0

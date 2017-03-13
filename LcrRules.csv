@@ -1,0 +1,2 @@
+#Direction,Tenant,Category,Account,Subject,DestinationId,RPCategory,Strategy,StrategyParams,ActivationTime,Weight
+*out,cgrates.org,call,1001,*any,*any,lcr_profile1,*static,suppl1;suppl2,2014-01-14T00:00:00Z,10

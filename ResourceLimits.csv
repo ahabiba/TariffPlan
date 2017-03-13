@@ -1,0 +1,2 @@
+#Id,FilterType,FilterFieldName,FilterValues,ActivationTime,Weight,Limit,ActionTriggers
+ResGroup2,*destinations,Destination,Fixo,2014-07-29T15:00:00Z,10000,2000,
